@@ -10,19 +10,15 @@
 
 ### GitHub Status
 
-![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrebimbatti&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrebimbatti&layout=compact&theme=dark&card_width=450)
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrebimbatti&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=andrebimbatti&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
+</div>
 
-##Minhas redes
+## Minhas redes
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/andrebimbatti/) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/andrebimbatti)
-
-
-
-
-
-
-
 
 
 <!--
