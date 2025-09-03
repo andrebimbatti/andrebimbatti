@@ -3,10 +3,11 @@
 
 * Bacharel em Design Gráfico pela ESAMC Sorocaba
 * Licenciatura em Artes pela FAEP
-* Estudando Programação na Alura+
+* Estudando Gestão de TI na Fatec
+* E Programação na Alura+
 
 ### Linguagens e Tecnologias 📡
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 
 ### GitHub Status
@@ -14,7 +15,7 @@
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrebimbatti&layout=compact&langs_count=7&theme=dark"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=andrebimbatti&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
+<!-- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=andrebimbatti&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/> -->
 </div>
 
 ## Minhas redes
