@@ -13,7 +13,7 @@ Minhas principais ferramentas incluem **HTML5**, **CSS3**, **JavaScript**, **Pyt
 
 ## Projetos em Destaque
 - **[CRUD_Jogoteca](https://github.com/andrebimbatti/CRUD_Jogoteca)**: Aplicação web em Flask para gerenciar um catálogo de jogos, com autenticação, operações CRUD e upload de imagens. Tecnologias: Python, Flask, MySQL, HTML, CSS, Bootstrap.
-- **[AluraBooks](https://github.com/andrebimbatti/AluraBooks)**: Projeto de interface responsiva para uma livraria online, desenvolvido com HTML5, CSS3 e SwiperJS, focado em acessibilidade e design moderno.
+- **[AluraBooks]([https://github.com/andrebimbatti/AluraBooks](https://github.com/andrebimbatti/Desenvolvimento-responsivo-da-AluraBooks-Mobile-First))**: Projeto de interface responsiva para uma livraria online, desenvolvido com HTML5, CSS3 e SwiperJS, focado em acessibilidade e design moderno.
 - **[Logica_Programacao_Javascript](https://github.com/andrebimbatti/Logica_Programacao_Javascript)**: Exercícios e materiais do curso de Lógica de Programação com JavaScript na Alura, focando em algoritmos e interatividade web. Tecnologias: JavaScript, HTML e CSS. ⚡
 
 
